@@ -1,7 +1,5 @@
 the first origin
 test the second push
+first person
 git third test
-git second conflict
-
-ready to push first
 first conflict
