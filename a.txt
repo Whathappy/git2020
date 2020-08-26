@@ -3,3 +3,5 @@ test the second push
 git third test
 git second conflict
 
+ready to push first
+first conflict
